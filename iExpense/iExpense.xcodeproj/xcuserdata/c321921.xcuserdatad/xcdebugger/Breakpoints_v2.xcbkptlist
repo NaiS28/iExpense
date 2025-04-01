@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92B79983-9A0F-4884-A08E-C97523E29555"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2459F9EE-B46D-4A05-8C26-39E3898F0EFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iExpense/ContentViewOnDelete.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "ContentViewOnDelete"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2F0F399-208A-49F7-93B9-0C3FA172400D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../var/folders/g7/950czf7160sg7rwx4td0y0s9wx4m1l/T/swift-generated-sources/@__swiftmacro_8iExpense8ExpensesC5items18ObservationTrackedfMp_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "A2F0F399-208A-49F7-93B9-0C3FA172400D - d5d8cfc39e182726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iExpense.Expenses._items.modify : Swift.Array&lt;iExpense.ExpenseItem&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iExpense.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "A2F0F399-208A-49F7-93B9-0C3FA172400D - bd8e0faa792c0135"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iExpense.Expenses._items.getter : Swift.Array&lt;iExpense.ExpenseItem&gt;"
+                  moduleName = "iExpense.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/g7/950czf7160sg7rwx4td0y0s9wx4m1l/T/-ed6a4e.@__swiftmacro_8iExpense8ExpensesC5items18ObservationTrackedfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "A2F0F399-208A-49F7-93B9-0C3FA172400D - 39834898e72ef2b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iExpense.Expenses._items.setter : Swift.Array&lt;iExpense.ExpenseItem&gt;"
+                  moduleName = "iExpense.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/g7/950czf7160sg7rwx4td0y0s9wx4m1l/T/-ed6a4e.@__swiftmacro_8iExpense8ExpensesC5items18ObservationTrackedfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+               <Location
+                  uuid = "A2F0F399-208A-49F7-93B9-0C3FA172400D - 6b83a83e7c38c233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iExpense.Expenses._items.modify : Swift.Array&lt;iExpense.ExpenseItem&gt;"
+                  moduleName = "iExpense.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/g7/950czf7160sg7rwx4td0y0s9wx4m1l/T/-ed6a4e.@__swiftmacro_8iExpense8ExpensesC5items18ObservationTrackedfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
